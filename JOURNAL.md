@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Pikeyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/528).
-
-
 ## 10/19/2025 - Made the schematic of the keyboard.  
 
 I finished making the schematic of the keyboard. It was pretty easy for me since I already tried making a keyboard before (kept making mistakes and gave up). I was originally planning to use RGB for the keyboard, but I decided to settle on normal LEDs since I'll probably just end up using one single solid color anyways.
@@ -21,4 +17,14 @@ I finished making the schematic of the keyboard. It was pretty easy for me since
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2989c3261166783b6c6c91181f2aa6ca21aa2056/image.png)
   
+
+## 10/21/2025 - Finished making the PCB.  
+
+Laid everything out in the PCB editor and routed everything as well. Spent most of my time routing since I suck at organizing and planning ahead, so I kept making a mess. It turned out alright in the end though.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--01091bc7af9c030d8d709c1a21b88c42b5b79343/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--aaed1e3814684ab8c1ddcc4263c40f31f6ecf329/image.png)
+
+   
 
