@@ -28,3 +28,13 @@ Laid everything out in the PCB editor and routed everything as well. Spent most 
 
    
 
+## 10/25/2025 - Got QMK and Vial working.  
+
+This took way longer than it probably should've, but I suck at coding and have no experience so I expected that. Kept getting confused at some parts and made dumb mistakes cause I'm lowkey kinda slow.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ0MywicHVyIjoiYmxvYl9pZCJ9fQ==--4d4bac4d11dfd86f2aec938a92ce43cade4be21a/image.png)
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--9be0487fb8da43232751c3566e62d08c90e0268f/image.png)
+  
+
