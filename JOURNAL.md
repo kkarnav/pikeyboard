@@ -38,3 +38,14 @@ This took way longer than it probably should've, but I suck at coding and have n
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--9be0487fb8da43232751c3566e62d08c90e0268f/image.png)
   
 
+## 10/26/2025 - Finished making the case.  
+
+Somehow this was the most painful part of this project. I honestly thought I'd be done making the case in a few hours, but instead I spent them trying out other CAD apps and ended up settling on Shapr3D since I found it the easiest to work with and It ran pretty well on my PC (My PC is a shitbox).
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--2b515b893e3c74e4cb07a52ed6bc1d10e50d51d6/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTczMCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc29574454da3736ee0bd3d5c689e8bdfdbbcd62/image.png)
+6 hours for the most bland case possible🙏
+
+  
+
