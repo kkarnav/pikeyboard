@@ -48,7 +48,7 @@ Somehow this was the most painful part of this project. I honestly thought I'd b
 
   
 
-## 10/27/2025 - Added some stuff I forgot to add to the case.  
+## 10/27/2025 2 PM - Added some stuff I forgot to add to the case.  
 
 For some reason I never tried comparing the case to a 3d model of my PCB after I made the case so I did that today, and thank god I did. The pico was not fitting properly because of the plate so I added a hole for it to pass through and I also added a hole to the connector.
 
@@ -58,4 +58,13 @@ For some reason I never tried comparing the case to a 3d model of my PCB after I
 
 
   
+
+## 10/27/2025 11 PM - Made the BOM and finished up.  
+
+I spent some time looking for switches, keycaps, etc. Hardest part was lowkey choosing the keycaps. I was looking around Curiositycaps and they had a really good catalogue for pretty cheap. I was contemplating between either MOA or Cherry keycaps, but settled on Cherry since the one I was getting matched my setup better. For the switches I ended up going with the Akko Creamy Yellows V3.
+
+Here's the BOM:-
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--af25bb9cf7e37bfe3c784d1091f6071ec7caabf5/image.png)
+
+   
 
