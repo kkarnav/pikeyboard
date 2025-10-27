@@ -13,4 +13,6 @@ A 75% custom keyboard made using the Raspberry Pi Pico.
 ## Keyboard Case
 <img width="1615" height="862" alt="image" src="https://github.com/user-attachments/assets/e047e843-706e-412c-aeae-42b42fa65ec0" />
 
+## Keyboard in vial
+<img width="823" height="310" alt="image" src="https://github.com/user-attachments/assets/882b23ec-faf9-4ee1-8d21-e0f6d06d3594" />
 
