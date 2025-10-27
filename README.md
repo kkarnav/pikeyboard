@@ -1,2 +1,2 @@
 # pikeyboard
-Raspberry pico based custom keyboard
+A 75% custom keyboard made using the Raspberry Pi Pico.
