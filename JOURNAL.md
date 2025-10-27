@@ -44,7 +44,6 @@ Somehow this was the most painful part of this project. I honestly thought I'd b
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--2b515b893e3c74e4cb07a52ed6bc1d10e50d51d6/image.png)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTczMCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc29574454da3736ee0bd3d5c689e8bdfdbbcd62/image.png)
 6 hours for the most bland case possible🙏
 
   
