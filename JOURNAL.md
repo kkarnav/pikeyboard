@@ -48,14 +48,23 @@ Somehow this was the most painful part of this project. I honestly thought I'd b
 
   
 
-## 10/27/2025 - Added some stuff I forgot to add to the case.  
+## 10/27/2025 2 PM - Added some stuff I forgot to add to the case.  
 
 For some reason I never tried comparing the case to a 3d model of my PCB after I made the case so I did that today, and thank god I did. The pico was not fitting properly because of the plate so I added a hole for it to pass through and I also added a hole to the connector.
 
 ![Screenshot 2025-10-27 143711](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--e59d7e1db8675af5b4cf0f89626801d421a8585d/Screenshot%202025-10-27%20143711.png)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb5109eae1932f004d36ee8a516aa588c10e07ca/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--29fcdb28d1ff804bed1323802c63541c0ab8e789/image.png)
 
 
   
+
+## 10/27/2025 11 PM - Made the BOM and finished up.  
+
+I spent some time looking for switches, keycaps, etc. Hardest part was lowkey choosing the keycaps. I was looking around Curiositycaps and they had a really good catalogue for pretty cheap. I was contemplating between either MOA or Cherry keycaps, but settled on Cherry since the one I was getting matched my setup better. For the switches I ended up going with the Akko Creamy Yellows V3.
+
+Here's the BOM:-
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--af25bb9cf7e37bfe3c784d1091f6071ec7caabf5/image.png)
+
+   
 
