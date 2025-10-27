@@ -1,7 +1,7 @@
 # pikeyboard
 A 75% custom keyboard made using the Raspberry Pi Pico.
 
-##Layout of the keyboard
+## Layout of the keyboard
 <img width="884" height="359" alt="image" src="https://github.com/user-attachments/assets/659f25e9-84cd-4025-b56f-d41a4c962cef" />
 
 ## PCB Layout
