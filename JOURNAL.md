@@ -54,7 +54,7 @@ For some reason I never tried comparing the case to a 3d model of my PCB after I
 
 ![Screenshot 2025-10-27 143711](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--e59d7e1db8675af5b4cf0f89626801d421a8585d/Screenshot%202025-10-27%20143711.png)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb5109eae1932f004d36ee8a516aa588c10e07ca/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--29fcdb28d1ff804bed1323802c63541c0ab8e789/image.png)
 
 
   
